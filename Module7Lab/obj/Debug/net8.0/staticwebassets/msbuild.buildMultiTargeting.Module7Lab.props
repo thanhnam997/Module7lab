@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Module7Lab.props" />
+</Project>

@@ -1,0 +1,17 @@
+/* Add any custom styles here */
+/* sets the background color of the title to green */
+#hero {
+
+    background-color: #2ecc71;
+
+}
+
+ 
+/* Customize the social links style to remove the underline for the link and be bold */
+.social-links a {
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}

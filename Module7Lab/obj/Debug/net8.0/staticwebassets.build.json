@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "cZwed/4NlbhUGjQTzTt5WJyVlbOSDP3PEnb78y/syjg=",
+  "Source": "Module7Lab",
+  "BasePath": "_content/Module7Lab",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Module7Lab/wwwroot",
+      "Source": "Module7Lab",
+      "ContentRoot": "/workspaces/Module7lab/Module7Lab/wwwroot/",
+      "BasePath": "_content/Module7Lab",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/Module7lab/Module7Lab/wwwroot/index.html",
+      "SourceId": "Module7Lab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module7lab/Module7Lab/wwwroot/",
+      "BasePath": "_content/Module7Lab",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/Module7lab/Module7Lab/wwwroot/styles.css",
+      "SourceId": "Module7Lab",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module7lab/Module7Lab/wwwroot/",
+      "BasePath": "_content/Module7Lab",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
+}
